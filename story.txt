@@ -1,5 +1,6 @@
 One snowy day, John was walking down the slippery sidewalks of UW-Madison. He was walking to his favorite class, CS 400, when an idea for some groundbreaking software hit him. He knew he'd become rich beyond his wildest dreams while also making people's lives easier, but he still felt a little bad about ditching lecture to begin development. However, he decided that the work needed to start now, and so he turned around and ran back home. 
+:w
 
-He found out his house is surrounded by policeman cars. He went to see what's going on and saw an extraterrestrial creature on his roof.
+He found out his house is surrounded by policeman cars. He went to see what's going on and saw an extraterrestrial creature on his roof, which appears green.
 
 The cops were frantically gesturing and shouting at each other. They had no idea what to do and were shouting "this isn't what I signed up for". News vans and even helicopters started to arrive at the scene. Pushing and shoving his way to the front of the crowd, John was finally able to survey the entire situation. There was a pill-like spaceship sticking out of his roof with the alien sitting on top of the chimney. He was chilled to the bone once he realized that the extraterrestrial creature was staring straight at him.
